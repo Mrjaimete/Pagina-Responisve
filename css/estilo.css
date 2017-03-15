@@ -1,0 +1,34 @@
+div.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+}
+
+div.gallery:hover {
+    border: 1px solid #777;
+}
+
+div.gallery img {
+    width: 100%;
+    height: auto;
+}
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+    background-color:#CEF6F5;
+}
+div.descc {
+    padding: 15px;
+    text-align: center;
+    background-color:#D0F5A9;
+}
+#img
+{
+width="300" height="200"
+}
+@media (max-width : 600px){
+	background-color: red;
+}
+ 
