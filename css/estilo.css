@@ -29,6 +29,12 @@ div.descc {
 width="300" height="200"
 }
 @media (max-width : 600px){
-	background-color: red;
+div.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width:100%;
+}
+	
 }
  
